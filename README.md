@@ -12,3 +12,4 @@ The program uses a method called `isprime(int n)` which:
 - Returns `false` if the number is less than or equal to 1  
 - Checks divisibility from 2 to n/2  
 - Returns `true` if no divisor is found  
+
